@@ -1,0 +1,74 @@
+:root {
+    /*Colors */
+
+    /* Primary */
+    --red: hsl(0, 100%, 74%);
+    --green: hsl(154, 59%, 51%);
+
+    /* Accent */
+    --blue: hsl(248, 32%, 49%);
+
+    /* Neutral */
+    --dark-blue: hsl(249, 10%, 26%);
+    --grayish-blue: hsl(246, 25%, 77%);
+        
+    /* Font */
+    --sm: 1.2rem;
+    --md: 1.4rem;
+    --lg: 3rem;
+}
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'Poppins', sans-serif;
+    background: var(--red);
+}
+.section__description {
+    
+}
+.description__title {
+    
+}
+.description__text {
+    
+}
+.section__info {
+    
+}
+.info__promotion {
+    
+}
+.promotion__text {
+    
+}
+.info__container {
+    
+}
+.container__form {
+    
+}
+.form__field {
+    
+}
+.field__label {
+    
+}
+.label__span {
+    
+}
+.field__input {
+    
+}
+.field__error {
+    
+}
+.form__button {
+    
+}
+.container__Terms {
+    
+}

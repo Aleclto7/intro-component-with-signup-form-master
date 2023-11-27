@@ -7,6 +7,7 @@ imputs.forEach(element => {
     }
         else {
         element.previousElementSibling.classList.add('inactive');
+        element.classList.remove('field__error');
     }
 })
 });
